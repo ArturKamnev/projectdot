@@ -1,4 +1,4 @@
-# projectdot
+# CAMCONTROLLER
 
 При помощи веб-камеры, OpenCV и MediaPipe скрипт отслеживает кончики пальцев рук и эмулирует события мыши через PyAutoGUI:
 
